@@ -1,0 +1,8 @@
+Start,End,Length
+A,B,1
+B,C,2
+C,D,2
+D,E,1
+A,C,4
+A,D,4
+A,E,2
